@@ -7,14 +7,13 @@ h1{
     color: #5667B3;
     text-decoration: underline;
 }
-h2{
-    text-align: center;
-    color: #D03B3B;
-}
-h3{
-    color: #ff0000;
-}
 p{
     font-size: 20px;
     color: #1e4bac;
+}
+.parrafo__rojo{
+    color: red;
+}
+footer{
+    background-color: aqua;
 }
