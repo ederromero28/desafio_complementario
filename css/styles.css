@@ -1,0 +1,20 @@
+body{
+    background-color: #FCF2B5;
+}
+
+h1{
+    text-align: center;
+    color: #5667B3;
+    text-decoration: underline;
+}
+h2{
+    text-align: center;
+    color: #D03B3B;
+}
+h3{
+    color: #ff0000;
+}
+p{
+    font-size: 20px;
+    color: #1e4bac;
+}
